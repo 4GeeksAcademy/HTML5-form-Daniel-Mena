@@ -1,0 +1,15 @@
+.form-check-inline {
+    background-color: grey;
+    margin-right: 0px;
+    padding-right: 16px;
+}
+
+.pay{
+    display: flex;
+    justify-content: start;
+}
+
+
+.text-undertext{
+    font-size: 13px;
+}
